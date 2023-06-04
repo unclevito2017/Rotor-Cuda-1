@@ -246,5 +246,5 @@ GPU          : GPU #0 NVIDIA GeForce RTX 2070 (36x64 cores) Grid(288x256)
 - Microsoft Visual Studio Community 2019
 - CUDA version 10.22
 ## Donation
-- BTC: bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9
+- BTC: bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm
 
